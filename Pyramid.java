@@ -26,7 +26,10 @@ public class Pyramid{
 			}
 			System.out.println("");
 		}
+		
+		/* Serves as a seperator */
 		System.out.println("\n--------------\n");
+		
 		/* Another version */
 		int n = Integer.parseInt(args[0]);
 		for(int i = 1; i <= n; i++){
